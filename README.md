@@ -16,10 +16,10 @@ Select 'File > Export Convex Hull' to save Convex Hull in a data file (convex_hu
 
 Input data file format:
 
-Number of Points
-[X1, Y1]
-[X2, Y2]
-[X3, Y3]
-...
+Number of Points  
+[X1, Y1]  
+[X2, Y2]  
+[X3, Y3]  
+...  
 
 The entire Point Set and the points belonging to the Convex Hull will be listed in the Data tab. The Point Set and Convex Hull will be displayed in the Graph tab. 
