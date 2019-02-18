@@ -1,5 +1,7 @@
 # Program to generate Convex Hull of a set of points
 
+-----
+
 Michael Szenczewski  
 December 16th 2018  
 CSE 355/AMS 345  
