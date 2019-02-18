@@ -1,4 +1,4 @@
-# ConvexHull - Program to generate Convex Hull of a set of points
+Program to generate Convex Hull of a set of points
 
 Michael Szenczewski  
 December 16th 2018  
